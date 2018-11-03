@@ -1,13 +1,21 @@
 # simpleMalaysiaStateWeather
 use OpenWeatherMap API...
 
-This Application only display humidity, temperature, wind speed, wind direction
+This Application only display humidity, temperature, wind speed, wind direction.
+This application view only Malaysia state weather.
 
 step 
-1. Please download all '.java' and '.gif' file.
-2. Save to same folder directory.
-3. run cmd on that directory path with " javac View.java ";
-2. use View.java as main Method to execute whole application.
+1. Please download  'MalaysiaStateWeather.jar' file.
+2. Create folder directory and save 'MalaysiaStateWeather.jar' into it.
+3. Download 'loading.gif' and save into same created directory.
+4. Run the jar file by double clicking.
+
+Register at https://home.openweathermap.org/ to get API key.
+
+
+API key : cb341db8355b803dcbe3859871a10fda
+
+Please sign up at url given to avoid delay on receiving data or failure.
 
 
 
