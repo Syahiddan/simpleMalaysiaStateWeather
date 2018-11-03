@@ -15,7 +15,7 @@ step
 Register at https://home.openweathermap.org/ to get API key.
 
 
-API key : cb341db8355b803dcbe3859871a10fda
+Default API key : cb341db8355b803dcbe3859871a10fda
 
 Please sign up at url given to avoid delay on receiving data or failure.
 
